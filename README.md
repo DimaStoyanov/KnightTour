@@ -1,6 +1,15 @@
 # KnightTour
 
-Визуализация обхода конем всех клеток по 1 разу
+Визуализация поиска гамильтонова цикла(ход конем) полным перебором.  
 
+<img alt="Main activity" src="https://vk.com/doc18634212_446054893?hash=7eda4fa4dbcfc3b3a3&dl=742d02fa2b8b1187bf&wnd=1&module=im" height="250px">
 
-<img alt="Main activity" src="https://vk.com/doc18634212_444920253?hash=a7bf7ec0d02b58c1c9&dl=775194b7834e1c52e7&wnd=1&module=im" height="250px">
+### Перед запуском:
+* задать размер поля (не более 20)
+* установить начальное положение коня (кликая в нужную клетку)  
+### Для запуска
+* [Скачать исполняемый файл haskell](Knights.exe)
+* [Скачать картинку коня](knight_model.png)
+* [Скачать Jar (все положить в одну папку)](Knights.jar)
+* `java -jar Knights.jar`
+
